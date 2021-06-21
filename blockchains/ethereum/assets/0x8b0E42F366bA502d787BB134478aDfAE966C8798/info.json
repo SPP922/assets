@@ -1,0 +1,11 @@
+{
+    "name": "LABS Group",
+    "symbol": "LABS",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://labsgroup.io",
+    "explorer": "https://etherscan.io/token/0x8b0E42F366bA502d787BB134478aDfAE966C8798",
+    "status": "active",
+    "id": "0x8b0E42F366bA502d787BB134478aDfAE966C8798"
+}
